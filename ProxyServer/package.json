@@ -1,0 +1,14 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "description": "proxy server for https requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenxuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
